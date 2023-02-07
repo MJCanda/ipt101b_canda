@@ -13,4 +13,6 @@ printf("Hello world");
 - Step 1: Download the zip file or use git clone
 
 ## Git change history (undo)
-- 1st commit
+- 1st commit (revert)
+- 2nd commit (revert)
+- 3rd commit (reset)

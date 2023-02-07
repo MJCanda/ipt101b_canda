@@ -16,3 +16,4 @@ printf("Hello world");
 - 1st commit (revert)
 - 2nd commit (revert)
 - 3rd commit (reset)
+- 4th commit (reset)

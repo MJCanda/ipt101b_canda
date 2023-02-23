@@ -19,5 +19,5 @@ printf("Hello world");
 - 4th commit (reset)
 
 ## Git branch change
-- change 1
+- change number 1
 - change 2
